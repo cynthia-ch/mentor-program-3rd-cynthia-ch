@@ -3,3 +3,4 @@ function printStars(n) {
 }
 
 printStars(5);
+console.log()
