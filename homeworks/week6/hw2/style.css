@@ -1,0 +1,27 @@
+.wrap {
+	width:960px;
+}
+
+.aside {
+	width:20%;
+	float:left;
+}
+
+.clap {
+	width:62px;
+	height:62px;
+	border:grey solid;
+	border-radius: 50%;
+
+}
+
+span {
+	margin-left:20px;
+	margin-top: 20px;
+}
+
+.main {
+	width:80%;
+	float:left;
+}
+
