@@ -1,7 +1,7 @@
 ## 請找出三個課程裡面沒提到的 HTML 標籤並一一說明作用。
-* <hr />分隔線
-* <bgsound />：屬性 src 音樂檔路徑，屬性 loop : 重播次數
-* <select>選單
+* hr分隔線
+* bgsound：屬性 src 音樂檔路徑，屬性 loop : 重播次數
+* select選單
 
 ## 請問什麼是盒模型（box modal）
 在 html 裡面每個元素都是一個盒模型，佔據瀏覽器寬高特定大小，尺寸為 px ，可以透過調整 margin、padding、border 來改變位置。
