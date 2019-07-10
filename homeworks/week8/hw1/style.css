@@ -1,0 +1,27 @@
+.start{
+  display: inline-block;
+  padding: 15px 40px;
+  background: orange;
+  position:absolute;
+  left:47%;
+  top:47%;
+  cursor:pointer;
+}
+
+h1{
+  position:absolute;
+  left:47%;
+  top:47%;
+}
+img{
+  position:absolute;
+  left:50%;
+  top:60%;
+}
+
+.youtubetitle{
+  position:absolute;
+  left:37%;
+  top:47%;
+}
+
